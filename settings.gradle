@@ -1,0 +1,2 @@
+rootProject.name='ReScan 0.0.1'
+include ':app'
